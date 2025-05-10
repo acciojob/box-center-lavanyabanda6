@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	margin:2px;
+	border-color:black;
 	height: 100vh;
 	display:flex;
 	justify-content: center;
